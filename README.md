@@ -15,5 +15,5 @@ The code mainly includes the following processes:
   3. construct gene regulatory networks of neural cells and fibroblasts
 
 ##spatial transcriptomic data analysis
-The code mainly includes the following process:
-cell type annotation of horn tissues at Day 150
+The code mainly includes the following process: 
+  cell type annotation of horn tissues at Day 150
